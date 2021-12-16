@@ -1,0 +1,29 @@
+[INFO ] 2021-12-16 11:45:04.268 [TestNG-PoolService-0] Parallel - Start test parallel 1
+[INFO ] 2021-12-16 11:45:04.268 [TestNG-PoolService-3] Parallel - Start test parallel 4
+[INFO ] 2021-12-16 11:45:04.268 [TestNG-PoolService-1] Parallel - Start test parallel 2
+[INFO ] 2021-12-16 11:45:04.268 [TestNG-PoolService-4] Parallel - Start test parallel 5
+[INFO ] 2021-12-16 11:45:04.268 [TestNG-PoolService-2] Parallel - Start test parallel 3
+[INFO ] 2021-12-16 11:45:26.584 [TestNG-PoolService-3] Parallel - Test-4 Enter search лижі
+[INFO ] 2021-12-16 11:45:27.770 [TestNG-PoolService-0] Parallel - Test-1 Enter search phone
+[INFO ] 2021-12-16 11:45:27.784 [TestNG-PoolService-1] Parallel - Test-2 Enter search bag
+[INFO ] 2021-12-16 11:45:27.881 [TestNG-PoolService-2] Parallel - Test-3 Enter search lamp
+[INFO ] 2021-12-16 11:45:27.882 [TestNG-PoolService-4] Parallel - Test-5 Enter search sup
+[INFO ] 2021-12-16 11:45:39.881 [TestNG-PoolService-2] Parallel - Test-3 Select brand SUN
+[INFO ] 2021-12-16 11:45:40.823 [TestNG-PoolService-3] Parallel - Test-4 Select brand Volkl
+[INFO ] 2021-12-16 11:45:40.870 [TestNG-PoolService-0] Parallel - Test-1 Select brand Apple
+[INFO ] 2021-12-16 11:45:41.642 [TestNG-PoolService-1] Parallel - Test-2 Select brand O bag
+[INFO ] 2021-12-16 11:45:46.783 [TestNG-PoolService-4] Parallel - Test-5 Select brand Red
+[INFO ] 2021-12-16 11:45:50.147 [TestNG-PoolService-0] Parallel - Test-1 Select first product to Curt
+[INFO ] 2021-12-16 11:45:50.622 [TestNG-PoolService-0] Parallel - Test-1 Open Curt page
+[INFO ] 2021-12-16 11:45:52.694 [TestNG-PoolService-3] Parallel - Test-4 Select first product to Curt
+[INFO ] 2021-12-16 11:45:53.465 [TestNG-PoolService-3] Parallel - Test-4 Open Curt page
+[INFO ] 2021-12-16 11:45:54.860 [TestNG-PoolService-2] Parallel - Test-3 Select first product to Curt
+[INFO ] 2021-12-16 11:45:55.063 [TestNG-PoolService-2] Parallel - Test-3 Open Curt page
+[INFO ] 2021-12-16 11:45:55.261 [TestNG-PoolService-3] Parallel - Test-4Assert price 23999 > 1500
+[INFO ] 2021-12-16 11:45:57.036 [TestNG-PoolService-2] Parallel - Test-3Assert price 356 > 300
+[INFO ] 2021-12-16 11:45:58.977 [TestNG-PoolService-1] Parallel - Test-2 Select first product to Curt
+[INFO ] 2021-12-16 11:45:59.120 [TestNG-PoolService-1] Parallel - Test-2 Open Curt page
+[INFO ] 2021-12-16 11:46:00.583 [TestNG-PoolService-1] Parallel - Test-2Assert price 3020 > 900
+[INFO ] 2021-12-16 11:46:02.300 [TestNG-PoolService-4] Parallel - Test-5 Select first product to Curt
+[INFO ] 2021-12-16 11:46:02.451 [TestNG-PoolService-4] Parallel - Test-5 Open Curt page
+[INFO ] 2021-12-16 11:46:03.328 [TestNG-PoolService-4] Parallel - Test-5Assert price 1238 > 700
